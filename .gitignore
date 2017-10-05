@@ -1,7 +1,6 @@
 config*
 contentful-export-*
 
-dist
 gh-pages
 
 # Docker
